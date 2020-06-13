@@ -1,2 +1,3 @@
 FROM https://github.com/javanile/forkfile
-COPY aa
+
+DUMP
