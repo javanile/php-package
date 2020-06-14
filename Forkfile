@@ -1,3 +1,5 @@
 FROM https://github.com/javanile/forkfile
 
+MERGE Makefile
+
 DUMP
